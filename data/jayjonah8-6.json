@@ -1,0 +1,9 @@
+{
+  "contest": 98,
+  "handle": "jayjonah8",
+  "address": "0x75aAfefc48D23C65F49603491630308DcBd468f5",
+  "risk": "3",
+  "title": "External call to user provided address with arbitrary data supplied",
+  "issueId": 6,
+  "issueUrl": "https://github.com/code-423n4/2022-03-rolla-findings/issues/6"
+}
