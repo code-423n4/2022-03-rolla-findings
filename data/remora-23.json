@@ -1,0 +1,9 @@
+{
+  "contest": 98,
+  "handle": "remora",
+  "address": "0x1434b95234155DA830c20d02548aF22f14A38FbE",
+  "risk": "3",
+  "title": "Invocation of  Controller.sol#_call() with malicious data can withdraw tokens approved for OperateProxy contract",
+  "issueId": 23,
+  "issueUrl": "https://github.com/code-423n4/2022-03-rolla-findings/issues/23"
+}
