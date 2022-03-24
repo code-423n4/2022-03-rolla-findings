@@ -1,0 +1,9 @@
+{
+  "contest": 98,
+  "handle": "IllIllI",
+  "address": "0xCC6B0a35481EA40b60780B7c0294c6c29061038f",
+  "risk": "2",
+  "title": "QTokens with the same symbol will lead to mistakes",
+  "issueId": 38,
+  "issueUrl": "https://github.com/code-423n4/2022-03-rolla-findings/issues/38"
+}
