@@ -1,0 +1,9 @@
+{
+  "contest": 98,
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "3",
+  "title": "[WP-H2] `EIP712MetaTransaction.executeMetaTransaction()` failed txs are open to replay attacks",
+  "issueId": 45,
+  "issueUrl": "https://github.com/code-423n4/2022-03-rolla-findings/issues/45"
+}
