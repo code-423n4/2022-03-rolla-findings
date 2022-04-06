@@ -2,7 +2,7 @@
   "contest": 98,
   "handle": "badbird",
   "address": "0xDa61e42AF1b4556Fa39Acc97A5DB9C68c2Ad0915",
-  "risk": "1",
+  "risk": "Q",
   "title": "QA Report",
   "issueId": 25,
   "issueUrl": "https://github.com/code-423n4/2022-03-rolla-findings/issues/25"
