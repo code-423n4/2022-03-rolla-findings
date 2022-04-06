@@ -2,7 +2,7 @@
   "contest": 98,
   "handle": "defsec",
   "address": "0x38BCE8C1Ca5a061aa8e2b4750C18BA3efb27CeD9",
-  "risk": "1",
+  "risk": "Q",
   "title": "QA Report",
   "issueId": 54,
   "issueUrl": "https://github.com/code-423n4/2022-03-rolla-findings/issues/54"
